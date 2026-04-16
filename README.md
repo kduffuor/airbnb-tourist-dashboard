@@ -4,6 +4,7 @@
 An interactive R Shiny dashboard analyzing Airbnb listings across six global cities, integrated with cost of living data to help travelers make informed accommodation and budget decisions.
 
 🔗 **Live Demo:** [kduffuor.shinyapps.io/airbnb-tourist-analytics-dashboard](https://kduffuor.shinyapps.io/airbnb-tourist-analytics-dashboard/)
+
 [![ShinyApps.io](https://img.shields.io/badge/ShinyApps.io-Live-green)](https://kduffuor.shinyapps.io/airbnb-tourist-analytics-dashboard)
 
 ## Cities Covered
