@@ -35,8 +35,8 @@ An interactive R Shiny dashboard analyzing Airbnb listings across six global cit
 ## Run Locally
 **1. Clone the repository**
 ```bash
-git clone https://github.com/kduffuor/airbnb-tourist-dashboard.git
-cd airbnb-tourist-dashboard
+git clone https://github.com/kduffuor/Airbnb-Tourist-Dashboard.git
+cd Airbnb-Tourist-Dashboard
 ```
 
 **2. Install required R packages**
