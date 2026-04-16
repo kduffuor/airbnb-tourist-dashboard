@@ -1,0 +1,19 @@
+# R specific
+.RData
+.Rhistory
+.Rproj.user/
+*.Rproj
+
+# Shiny deployment
+rsconnect/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Large or sensitive files
+*.twbx
+
+# Temp files
+*~
+*.tmp
