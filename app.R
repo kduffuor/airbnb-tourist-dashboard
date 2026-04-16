@@ -867,12 +867,7 @@ ui <- dashboardPage(
   
   # Header -----------------------------------------------------------------
   dashboardHeader(
-    title = tags$div(
-      tags$img(src = "https://upload.wikimedia.org/wikipedia/commons/6/69/Airbnb_Logo_B%C3%A9lo.svg",
-               height = "25px",
-               style = "margin-right: 10px;"),
-      "Tourist Analytics"
-    ),
+    title = "Airbnb Tourist Analytics",
     titleWidth = 350
   ),
   
